@@ -1,4 +1,4 @@
-# flow-node-2
+# flow-node
 
 ## Project setup
 ```
